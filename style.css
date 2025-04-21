@@ -27,6 +27,7 @@ body{
     font-size:xx-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-right: 5px;
+    overflow: auto;
 }
 .main{
     border: 2px solid gray;
