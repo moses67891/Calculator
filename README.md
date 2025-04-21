@@ -1,0 +1,1 @@
+A basic calculator built using HTML, CSS, and vanilla JavaScript. Supports fundamental arithmetic operations such as addition, subtraction, multiplication, division, percentage, and toggling between positive/negative numbers. Designed to demonstrate DOM manipulation, event handling, and simple logic implementation in JavaScript.
